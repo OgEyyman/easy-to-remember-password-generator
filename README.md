@@ -23,11 +23,11 @@ To compile the program, navigate to the directory containing the source code and
 command: 
 
 ```
-gcc etr_generator.c -o etr_generator 
+gcc etr_generator.c -o etr_generator.exe 
 ```
 
 This will create an executable named etr_generator. To run the program, use the following command: 
 
 ```
-./etr_generator 
+./etr_generator.exe 
 ```
